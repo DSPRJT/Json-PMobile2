@@ -1,0 +1,39 @@
+/* Style untuk tabel */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  table th,
+  table td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+  }
+  
+  table th {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  
+  /* Style untuk judul halaman */
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+
+ ul, li, a {
+  list-style: none;
+  display: flex;
+  margin: 40px ;
+  text-decoration: none;
+ }
+
+ ul a:hover {
+  color: black;
+  padding: 0px 20px;
+ }
+
+
+  
